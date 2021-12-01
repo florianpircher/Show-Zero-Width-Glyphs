@@ -11,3 +11,18 @@
 .com.apple.timemachine.donotpresent
 Icon
 ._*
+
+# Xcode
+xcuserdata/
+
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+timeline.xctimeline
+playground.xcworkspace
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcworkspace/contents.xcworkspacedata
+**/xcshareddata
