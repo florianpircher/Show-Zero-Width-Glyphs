@@ -6,9 +6,9 @@ This is a plugin for the [Glyphs font editor](https://glyphsapp.com) that draws 
 
 ## Installation
 
-[Install **Show Zero-Width Glyphs** in Glyphs](https://florianpircher.com/glyphs/plugins/show-zero-width-glyphs/install)
+<a href="https://florianpircher.com/glyphs/plugins/show-zero-width-glyphs/install"><img src="Assets/DownloadBadge.svg" alt="Download on the Plugin Manager" height="50"></a>
 
-Install the plugin using the link above or search for “Show Zero-Width Glyphs” in the Plugin Manager.
+Install the plugin using the button above or search for “Show Zero-Width Glyphs” in the Plugin Manager.
 Relaunch Glyphs for the plugin to be loaded.
 
 ## Preferences
